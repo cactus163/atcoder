@@ -9,6 +9,7 @@ int solve(int n)
         n /= 2;
         ans++;
     }
+    return ans;
 }
 
 int main()
